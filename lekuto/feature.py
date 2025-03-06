@@ -1,2 +1,2 @@
 # FINISHED
-my_name = Magalie
+my_name = Magali
